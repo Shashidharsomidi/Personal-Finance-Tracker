@@ -12,15 +12,16 @@ A beginner-friendly, secure personal finance tracker built with Python. This too
 - 🗃️ SQLite database integration
 
 ## 🛠️ Install Dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 ## 🧑‍💻 Usage
 
 Run the app using Streamlit:
-
+```bash
 streamlit run app.py
-
+```
 ## 🛠️ Installation
 
 1. **Clone the repository**
